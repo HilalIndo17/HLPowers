@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "player_died": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "deathCount": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "hl_powers:grant_death_advancement"
+  }
+}

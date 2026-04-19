@@ -1,0 +1,19 @@
+{
+  "parent": "hl_powers:the_power_within",
+  "display": {
+    "icon": {
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": "Power Without Immortality",
+    "description": "You had the power, but death still found you",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unlock_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "hl_powers:the_power_within",
+  "display": {
+    "icon": {
+      "id": "minecraft:beacon"
+    },
+    "title": "Awakened",
+    "description": "Unleash the Awakened power for the first time",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unlock_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

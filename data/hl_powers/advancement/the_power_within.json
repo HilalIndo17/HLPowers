@@ -1,0 +1,22 @@
+{
+  "parent": "hl_powers:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:blaze_powder"
+    },
+    "title": "The Power Within",
+    "description": "Get access to HLPowers",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unlock_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 26
+  }
+}
