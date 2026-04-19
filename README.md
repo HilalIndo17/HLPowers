@@ -1,7 +1,7 @@
 # ⚡ HLPowers
 
 **Creator:** HilalIndo17  
-**Version:** 1.0-beta  
+**Version:** 1.1-beta  
 **Minecraft:** 1.21.11+
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-HLPowers-green)](https://modrinth.com/datapack/hlpowers)
